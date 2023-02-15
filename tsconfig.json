@@ -14,8 +14,6 @@
       "@services": ["./services/*"],
       "@styles": ["./styles/*"],
       "@utils": ["./utils/*"],
-
-      "test/*": ["test/*"],
-      "underscore": ["lodash"]
   }
+}
 }
